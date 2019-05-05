@@ -29,10 +29,10 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:ems="10"
+            android:hint="Angka ini loh"
             android:layout_marginLeft="16dp"
             android:layout_marginTop="16dp"
-            android:inputType="numberSigned"
-            android:text="Name" />
+            android:inputType="numberSigned"/>
 
     </LinearLayout>
 
@@ -55,10 +55,10 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:ems="10"
+            android:hint="Angka ini lo"
             android:layout_marginLeft="16dp"
             android:layout_marginTop="16dp"
-            android:inputType="numberSigned"
-            android:text="Name" />
+            android:inputType="numberSigned"/>
 
 
     </LinearLayout>
